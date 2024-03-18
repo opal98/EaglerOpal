@@ -1,0 +1,13 @@
+How to do everything
+
+eaglercraftx-bungee.malakaisilverma.repl.co
+1: Fork it
+2: Clear all previous logs (Fully delete all logs in bungee/logs, server/logs, server/world, server/nether, server/world_the_end, and adjust anything in the plugins)
+3: look up serverproperties (MOTD, member count, server icon, etc.)
+4: Change anything you want
+
+
+To add plugins, go to https://github.com/royalxvirus/eagleplugins
+There are many others that you can find on spigiot, bukkit, etc
+
+Drag and drop your desired plugins into the folder named plugins. AuthME is buggy asf
